@@ -1,5 +1,4 @@
 hello world
 
-this is my first git file
 
-changing things again
+this is my first git file
