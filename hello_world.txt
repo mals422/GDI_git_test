@@ -1,4 +1,7 @@
 hello world
 
-
 this is my first git file
+
+changing things again
+
+hi, this is new
